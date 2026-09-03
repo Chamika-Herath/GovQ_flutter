@@ -204,7 +204,7 @@ class _LoginScreenState extends State<LoginScreen> with SingleTickerProviderStat
                     
                     // Title
                     Text(
-                      'GovQ Portal',
+                      'GovQ Portal...',
                       style: Theme.of(context).textTheme.headlineMedium?.copyWith(
                             color: AppTheme.primaryDark,
                             fontWeight: FontWeight.bold,
